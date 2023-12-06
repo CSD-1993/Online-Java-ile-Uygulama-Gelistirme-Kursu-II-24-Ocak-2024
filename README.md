@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-Kursu-II-24-Ocak-2024/blob/main/kurs-tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-Kursu-II-24-Ocak-2024/blob/main/kurs-icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-Kursu-II-24-Ocak-2024/blob/main/sss.md)
-+ [Kursa buradan kayıt olabilirsiniz](https://us02web.zoom.us/meeting/register/tZIucO6pqjksH9aDYwQ-k2WJji2szWXz0fOT#/registration)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZIucO6pqjksH9aDYwQ-k2WJji2szWXz0fOT#/registration)
