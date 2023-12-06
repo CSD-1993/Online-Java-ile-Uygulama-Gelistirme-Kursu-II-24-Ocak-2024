@@ -1,6 +1,6 @@
 # Online-Java-ile-Uygulama-Gelistirme-Kursu-II-24-Ocak-2024
 
-+ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs __24 OCAK 2024 Çarşamba__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
