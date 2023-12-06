@@ -152,6 +152,11 @@
 + Java ile OpenCV kütüphanesinin kullanımı
 + Örnek uygulamalar
 
+## Temel OpenGL
++ OpenGL'e ilişkin temel kavramlar
++ Java OpenGL kullanımına yönelik çeşitli kütüphaneler
++ Örnek uygulamalar
+
 ## Byte kod programlama
 + Decompile işlemleri
 + Örnek uygulamalar
@@ -202,6 +207,5 @@
 + Çeşitli sensörlerle işlemler
 + IOT uygulamalarında kullanılan çeşitli protokoller
 + Örnek uygulamalar
-
 
 
